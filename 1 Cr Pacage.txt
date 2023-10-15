@@ -1,0 +1,17 @@
+  /*******   1 crore pacakage placement       ********/
+
+// DBMS > Link https://www.youtube.com/watch?v=eYpXCdvKwEQ&list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU
+
+// OS > Link https://www.youtube.com/watch?v=3obEP8eLsCw&list=PLDzeHZWIZsTrd4HFQ4-z8TmacD0OQxkmx
+
+// DSA > Link https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+
+// Output MCQS question geeksforgeeks c++ > Link https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/
+
+// MCQS Link https://www.youtube.com/playlist?list=PLqleLpAMfxGDrR-Kyl3iHNfL3iLwYp-x-
+
+//APTITUDE FOR PLACEMENTS Link > https://www.indiabix.com/ , www.careerride.com ,Examveda ,Desimaster.in ,
+// Blog > https://desimaster.in/best-websites-and-resource-to-prepare-for-your-aptitude-test-assessment/
+// C++ > Link geeksforgeeks.org/c-plus-plus/	 
+// Behavioral Interview > Link https://www.geeksforgeeks.org/behavioral-interview-questions-answers-examples/
+// LLD interview questions > Link https://www.youtube.com/playlist?list=PLliXPok7Zonm0trweRA2UeSTTLVYiPzNG
